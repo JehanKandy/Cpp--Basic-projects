@@ -14,7 +14,7 @@ int main(){
                         }
 
                          else if((year%400)==0){
-                                cout<<year<<" is a leap year";
+                                cout<<year<<" is a leap y000000000ear";
                          }
 
                          else {
